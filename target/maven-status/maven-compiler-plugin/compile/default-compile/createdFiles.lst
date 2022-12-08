@@ -1,0 +1,10 @@
+Modelos\Venta.class
+Config\Clas.class
+Modelos\Usuario.class
+Modelos\Producto.class
+Modelos\UsuarioDAO.class
+Modelos\ProductoDAO.class
+Config\Conexion.class
+Modelos\VentaDAO.class
+Controladores\Controlador.class
+Controladores\Validar.class
